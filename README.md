@@ -2,14 +2,18 @@
 
 証明書関係の画像にOCR処理で文書情報を抽出
 
-- 画像を読み込む
-![読み込み画像](https://file%2B.vscode-resource.vscode-cdn.net/Users/mkstd_eczep/workspace/image2txt-easyocr/output.png?version%3D1683377534015)
-- 画像の一番大きい領域の端部を検出する
-![端部検出](https://file%2B.vscode-resource.vscode-cdn.net/Users/mkstd_eczep/workspace/image2txt-easyocr/output2.png?version%3D1683377569148)
-- 画像の一番大きい領域で台形補正を行う
-![台形補正後](https://file%2B.vscode-resource.vscode-cdn.net/Users/mkstd_eczep/workspace/image2txt-easyocr/output3.png?version%3D1683377622507)
-- 台形補正後の画像でOCRを実行する
-![OCR対象領域](https://file%2B.vscode-resource.vscode-cdn.net/Users/mkstd_eczep/workspace/image2txt-easyocr/output4.png?version%3D1683377628008)
+- 画像を読み込む<br>
+![読み込み画像](https://user-images.githubusercontent.com/52340949/236626109-5f48eadc-0cad-4f35-840a-d231cba6a5ca.png)
+
+- 画像の一番大きい領域の端部を検出する<br>
+![端部検出](https://user-images.githubusercontent.com/52340949/236626130-fa5e8eab-8249-419a-b4ba-647a95387785.png)
+
+- 画像の一番大きい領域で台形補正を行う<br>
+![台形補正後](https://user-images.githubusercontent.com/52340949/236626145-e84654af-9e4f-4641-8a4d-55ced76c8bf1.png)
+
+- 台形補正後の画像でOCRを実行する<br>
+![OCR対象領域](https://user-images.githubusercontent.com/52340949/236626161-55fcd023-5181-4e4b-b57d-a528069cd6b5.png)
+
 
 # インストール手順
 ```
